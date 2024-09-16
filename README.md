@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, je suis rabii lfarakh</h1>
 <h3 align="center">Pile complète développeur</h3>
-![aviso](https://github.com/user-attachments/assets/e3bbc3e7-550a-4cf7-a0fa-bad5d0bed6a9)
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.fr/pin/837951074449387442/">
 
 - 🌱 I’s currently learning **JAVA**
 
