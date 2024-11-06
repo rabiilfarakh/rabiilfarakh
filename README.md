@@ -1,70 +1,97 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rabiilfarakh.rabiilfarakh" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rabii!;" />
+<h1 align="left">Hi, I'm Rabii Lfarakh
+<img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center" alt="cat" />
 </h1>
+<p align="center">A passionate software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;"> from Morocco</p>
 
-<h3 align="center">A passionate software developer from Morocco 🇲🇦</h3>
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake" />
+</p>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabiilfarakh&label=Profile%20views&color=0e75b6&style=flat" alt="rabiilfarakh" /> </p>
 
-<div align="center">
- 
- 🌱 Je suis toujours en train d'apprendre les bonnes pratiques et les tendances de code.
+📊 **this week I spent my time on:**
+<!--START_SECTION:waka-->
 
-💬 Demandez-moi des conseils sur **Java, React ou tout autre sujet [ici](https://github.com/rabiilfarakh/issues)**.
+```txt
+Java         3 hrs 29 mins   ███████████████████░░░░░░   70.04 %
+Linux        3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   17.27 %
+TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Bash         24 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        10 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 
-⚡ Fun fact : **Les capes de la Garde de Nuit de Game of Thrones sont faites à partir de tapis Ikea.**
 
-</div>
+<!--END_SECTION:waka-->
 
-<div align="center"> 
-  <a href="mailto:rabiilfarakh2816@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
+
+<h3 align="left">Languages, Database, Tools</h3>
+<p>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="https://www.linkedin.com/in/rabii-lfarakh-53466723a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+   <a href="https://gradle.org">
+    <img src="https://skillicons.dev/icons?i=gradle" />
   </a>
-</div>
+  <a href="https://www.typescriptlang.org">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://redis.io">
+    <img src="https://skillicons.dev/icons?i=redis" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+   <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+  <a href="https://nodejs.org">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+  <a href="https://www.javascript.com">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://www.docker.com">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+   <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=vim" />
+  </a>
+ <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://go.dev">
+    <img src="https://skillicons.dev/icons?i=arch" />
+  </a>
+</p>
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,react,angular,docker,linux,js,c,git,postgres,mysql,oracle,mongodb,html,css,tailwind,bootstrap,jira,vscode,figma" />
-</div>
 
-<br/>
-<hr/>
+[![Github Follow](https://img.shields.io/github/followers/HwangTaehyun?label=Follow%20Me&style=social)](https://github.com/bouanani-soufiane)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbouanani-soufiane&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<div align="center">
-  <h2>🐍 Mes Contributions 🐍</h2>
+- 🔭 I’m currently studying at **YouCode Morocco**
+
+- 🌱 I’m currently learning **java**
+
+- 📫 How to reach me **bouananisfn@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/soufianbouanan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soufianbouanan1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soufiane-bouanani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane-bouanani" height="30" width="40" /></a>
+</p>
+
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bouanani-soufiane&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bouanani-soufiane&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bouanani-soufiane&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rabiilfarakh/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=rabiilfarakh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=rabiilfarakh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiilfarakh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Languages" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
+  <br>
+  <a href="https://www.buymeacoffee.com/bouananisoufiane"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+</p>
