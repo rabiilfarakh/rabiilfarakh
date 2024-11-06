@@ -3,15 +3,6 @@
 </h1>
 <p align="center">A passionate Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;">  from Morocco</p>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rabiilfarakh&label=Profile%20views&color=0e75b6&style=flat" alt="rabiilfarakh" /> 
-</p>
 
 
 
@@ -21,11 +12,10 @@
 
 ```txt
 Java         3 hrs 29 mins   ███████████████████░░░░░░   70.04 %
-lunix        3 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   17.27 %
-TypeScript   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
-Bash         24 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other        10 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
+Linux        3 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+React        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Bash         24 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 
 <!--END_SECTION:waka-->
 
