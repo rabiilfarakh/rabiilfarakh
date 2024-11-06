@@ -30,44 +30,71 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 <h3 align="left">Languages, Database, Tools</h3>
 <p>
+  <a href="https://www.java.com">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  </a>
+  <a href="https://www.php.net">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+  <a href="https://laravel.com">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  </a>
+  <a href="https://angular.io">
+    <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  </a>
   <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=java" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </a>
-   <a href="https://gradle.org">
-    <img src="https://skillicons.dev/icons?i=gradle" />
-  </a>
-  <a href="https://www.typescriptlang.org">
-    <img src="https://skillicons.dev/icons?i=ts" />
-  </a>
-  <a href="https://www.python.org">
-    <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://redis.io">
-    <img src="https://skillicons.dev/icons?i=redis" />
-  </a>
-  <a href="https://www.mongodb.com">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
-   <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=angular" />
-  </a>
-  <a href="https://nodejs.org">
-    <img src="https://skillicons.dev/icons?i=php" />
+  <a href="https://ubuntu.com">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Ubuntu" />
   </a>
   <a href="https://www.javascript.com">
-    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
-  <a href="https://www.docker.com">
-    <img src="https://skillicons.dev/icons?i=docker" />
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" />
   </a>
-   <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=vim" />
+  <a href="https://git-scm.com">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
- <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=linux" />
+  <a href="https://www.postgresql.org">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
-  <a href="https://go.dev">
-    <img src="https://skillicons.dev/icons?i=arch" />
+  <a href="https://www.mysql.com">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+  <a href="https://www.oracle.com/database">
+    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
+  </a>
+  <a href="https://www.mongodb.com">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+  </a>
+  <a href="https://getbootstrap.com">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  </a>
+  <a href="https://www.atlassian.com/software/jira">
+    <img src="https://skillicons.dev/icons?i=jira" alt="Jira" />
+  </a>
+  <a href="https://code.visualstudio.com">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  </a>
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </a>
 </p>
 
