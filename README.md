@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Bouanani Soufiane
+<h1 align="left">Hi, I'm Rabii Lfarakh
 <img src="https://emojis.slackmojis.com/emojis/images/1643509834/36299/black-cat.gif?1643509834" width="50" height="60" align="center"  alt="cat"/>
 </h1>
-<p align="center">A passionate fullstack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;">  from Morocco</p>
+<p align="center">A passionate Software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px" style="vertical-align: middle;">  from Morocco</p>
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
@@ -82,7 +82,7 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 - 🌱 I’m currently learning **java**
 
-- 📫 How to reach me **bouananisfn@gmail.com**
+- 📫 How to reach me **rabiilfarakh2816@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
