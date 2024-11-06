@@ -14,7 +14,7 @@ alaplece de typscripte faire reacte
 txt
 Java         3 hrs 29 mins   ███████████████████░░░░░░   70.04 %
 lunix        3 hr 43 mins    █████▒░░░░░░░░░░░░░░░░░░░   17.27 %
-React        14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+React   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 Bash         24 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 Other        10 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 <!--END_SECTION:waka-->
