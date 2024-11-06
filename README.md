@@ -69,9 +69,6 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
   <a href="https://www.mysql.com">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
-  <a href="https://www.oracle.com/database">
-    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
-  </a>
   <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   </a>
@@ -87,9 +84,6 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
   <a href="https://getbootstrap.com">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   </a>
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://skillicons.dev/icons?i=jira" alt="Jira" />
-  </a>
   <a href="https://code.visualstudio.com">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
   </a>
@@ -102,8 +96,10 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 <br/>
 
-[![Github Follow](https://img.shields.io/github/followers/HwangTaehyun?label=Follow%20Me&style=social)](https://github.com/bouanani-soufiane)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbouanani-soufiane&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Github Follow](https://img.shields.io/github/followers/rabiilfarakh?label=Follow%20Me&style=social)](https://github.com/rabiilfarakh)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frabiilfarakh&count_bg=%2379C83D&title_bg=%23555555&icon=java.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 - 🔭 I’m currently studying at **YouCode Morocco**
 
@@ -113,16 +109,17 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/soufianbouanan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soufianbouanan1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soufiane-bouanani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soufiane-bouanani" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rabiilfarakh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rabiilfarakh" height="30" width="40" />
+  </a>
 </p>
-
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=bouanani-soufiane&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bouanani-soufiane&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=bouanani-soufiane&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=rabiilfarakh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabiilfarakh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=rabiilfarakh&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/bouananisoufiane"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <a href="https://www.buymeacoffee.com/rabiilfarakh"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="rabiilfarakh" /></a>
 </p>
+
