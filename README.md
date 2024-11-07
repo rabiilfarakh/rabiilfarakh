@@ -35,6 +35,8 @@ Other        10 min          ░░░░░░░░░░░░░░░░░
   </a>
   <a href="https://reactjs.org">
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <a href="https://vuejs.org">
+    <img src="https://skillicons.dev/icons?i=vuejs" alt="Vue.js" />
   </a>
   <a href="https://angular.io">
     <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
